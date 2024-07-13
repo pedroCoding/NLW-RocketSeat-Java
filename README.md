@@ -4,7 +4,7 @@ Objetivo: organizar viajens à trabalho ou a lazer, podendo ser criado o nome, d
 
 -> Alguns requisitos funcionais
   - Cadastro da viagem informando local de destino, data de início, data de término, e-mails de convidados e nome completo
-  - Criador da viagem receve um e-mail para conirmar a nova viagem através de um link (Ao clicar no link, a viagem é confirmada)
+  - Criador da viagem recebe um e-mail para conirmar a nova viagem através de um link (Ao clicar no link, a viagem é confirmada)
   - Os convidados ao confirmarem a viagem, podem adicionar atividades que irão ocorrer durante a viagem com título, data e horário.
   - Novos participantes podem ser adicionados.
 
